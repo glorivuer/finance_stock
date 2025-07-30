@@ -1,6 +1,7 @@
 https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment
-https://x.com/rohanpaul_ai/status/1950339565849629102?t=9M9MTED5-k4scPHnGn8MsA&s=19
+
 His original prompt..
+https://x.com/rohanpaul_ai/status/1950339565849629102?t=9M9MTED5-k4scPHnGn8MsA&s=19
 
 “ You are a professional-grade portfolio strategist. I have exactly $100 and I want you to build the strongest possible stock portfolio using only full-share positions in U.S.
 -listed micro-cap stocks (market cap under $300M). Your objective is to generate maximum return from today (6-27-25) to 6 months from now (12-27-25). 
